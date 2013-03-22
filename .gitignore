@@ -13,3 +13,8 @@ develop-eggs/
 media/
 parts/
 src/
+eggs/
+pysqlite*
+skeleton.db
+static/
+ve/
