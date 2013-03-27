@@ -11,4 +11,6 @@ EVERLYTIC = {
     'URL': 'http://praekelt-host2.pmailer.net/api/1.0',
     'API_KEY': 'DwnGAw4ISfcqLmqnGRYrXOeJw8L3eJBS',
     'LIST_ID': 3780    # ECR Subscriptions Test
+# Its probably better to have the list name in the settings, and retrieve
+# the ID with a "lists.getList" call to Everlytic
 }
